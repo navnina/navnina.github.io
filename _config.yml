@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Navnina Bhatia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/cover.jpg"
   bio              : "Data Science PortFolio"
   location         : "Bethesda, MD"
   email            :  "navnina.bhatia@gmail.com"
