@@ -1,10 +1,9 @@
 ---
-layout : "archive"
 title: "About"
 permalink: /about/
 header:
-  image: "/images/cover.jpg"
-author_profile : true
+  image: "/images/cover_about.jpg"
+
 
 ---
 I am Data science enthusiast
