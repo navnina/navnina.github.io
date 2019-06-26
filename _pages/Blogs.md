@@ -6,8 +6,6 @@ header:
   image: "/images/cover_about.jpg"
 
 ---
-Here all my blogs go
-
 
 {% for post in posts %}
     {% include archive-single.html %}
