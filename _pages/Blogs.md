@@ -7,6 +7,6 @@ header:
 
 ---
 
-{% for post in posts %}
+{% for post in paginator.posts %}
     {% include archive-single.html %}
 {% endfor %}

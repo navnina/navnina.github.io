@@ -293,7 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  # pages
+  # _pages
   - scope:
      path : ""
      type : pages
