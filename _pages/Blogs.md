@@ -7,7 +7,7 @@ header:
 
 ---
 
-{% for post in posts %}
+{% for post in site.posts %}
     {% include archive-single.html %}
 {% endfor %}
 
